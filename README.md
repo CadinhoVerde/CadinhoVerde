@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**CadinhoVerde/CadinhoVerde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Rafael Alex
 
-Here are some ideas to get you started:
+### Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full stack developer dedicated to crafting efficient and scalable web applications. My current tech stack includes:
+
+- ![Static Badge](https://img.shields.io/badge/html5-plain.svg)
+- ![Static Badge](https://img.shields.io/badge/css3-plain.svg)
+- ![Static Badge](https://img.shields.io/badge/javascript-plain.svg)
+- ![Static Badge](https://img.shields.io/badge/react-original.svg) (learning)
+- ![Static Badge](https://img.shields.io/badge/nodejs-plain.svg) (learning)
+- ![Static Badge](https://img.shields.io/badge/typescript-plain.svg) (learning)
+
+
+I aim to join impactful projects where I can leverage my skills to develop innovative and high-quality solutions.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rafael-alex-ledier-teodoro-bbb484241/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rafael_alex_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CadinhoVerde&layout=compact)
